@@ -6,5 +6,10 @@ public class Main {
 	// write your code here
 
         System.out.println("zelal hello");
+	    
+	   int a= 10;
+	    System.out.println(a);
+	    
+	    
     }
 }
